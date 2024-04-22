@@ -23,7 +23,7 @@
 
 ### Languages and Tools: 
 
-<img align="left" alt="skills" width="240px" src="https://skillicons.dev/icons?i=py,vscode,bots" />
+<img align="left" alt="skills" width="200px" src="https://skillicons.dev/icons?i=py,vscode,bots" />
 <br>
 <br>
 <br>
