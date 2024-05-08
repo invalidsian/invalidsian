@@ -5,7 +5,7 @@
 
 <p align="center">
 <br>
-<a href="https://discord.com/users/1205592591270285348"><img src="https://img.shields.io/badge/discord-%231877F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;
+<a href="https://discord.com/users/1202993215666393128"><img src="https://img.shields.io/badge/discord-%231877F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;
 <a href="https://www.instagram.com/yxsuf.09/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://paste.gg/p/anonymous/684a556cd0c24c9da110c0fc2461bee9"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
